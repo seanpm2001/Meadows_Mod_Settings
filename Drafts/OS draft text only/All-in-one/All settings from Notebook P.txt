@@ -1,0 +1,2771 @@
+All settings from Notebook P
+
+1. Show file names
+2. Hide file names
+3. Error message spawn point
+4. Enable Mouse animations
+5. Disable Mouse animations
+6. format PC
+7. Reinstall
+8. delete mode
+9. select mode
+10. move mode
+11. default mode
+12. enable 2D background
+13. enable 3D background
+14. show seconds
+15. hide seconds
+16. show milliseconds
+17. hide milliseconds
+18. show minutes
+19. hide minutes
+20. show hour
+21. hide hour
+22. show framerate
+23. hide framerate
+24. show year
+25. hide year
+26. show month
+27. hide month
+28. show date
+29. hide date
+30. military time
+31. standard time
+32. show day of the week
+33. hide day of week
+34. disable mouse
+35. enable mouse
+36. drop framerate
+37. images only
+38. text only
+39. images and text
+40. change app size
+41. default app size
+42. close all
+43. enable movable error messages
+44. disable movable error messages
+45. enable rotatable error messages
+46. disable rotatable error messages
+47. enable movable error message icons
+48. disable movable error message icons
+49. enable rotatable error message icons
+50. disable rotatable error message icons
+51. change resolution
+52. factory reset
+53. disable Wi-Fi
+54. enable Wi-Fi
+55. disable internet connection
+56. enable internet connection
+57. disable 1x service
+58. enable 1x service
+59. disable 2x service
+60. enable 2x service
+61. disable 3g service
+62. enable 3g service
+63. disable 4g service
+64. enable 4g service
+65. disable 5g service
+66. enable 5g service
+67. enable phone calls
+68. disable phone calls
+69. enable microphone
+70. disable microphone
+71. enable speakers
+72. disable speakers
+73. touchscreen mode
+74. enable auto-align apps
+75. disable auto-align apps
+76. enable startup sound
+77. disable startup sound
+78. enable shutdown sound
+79. disable shutdown sound
+80. enable logoff sound
+81. disable logoff sound
+82. enable logon sound
+83. disable logon sound
+84. enable sign-off sound
+85. disabale sign-off sound
+86. enable sign-in sound
+87. disable sign-in sound
+88. enable error message sounds
+89. disable error message sounds
+90. enable notification sounds
+91. disable notification sounds
+92. enable auto-update
+93. disable auto-update
+94. enable voice search
+95. disable voice search
+96. enable video streaming off Wi-fi
+97. disable video streaming off Wi-Fi
+98. enable video streaming off data
+99. disable video streaming off data
+100. enable audio streaming off Wi-fi
+101. disable audio streaming off Wi-Fi
+102. enable audio streaming off data
+103. disable audio streaming off data
+104. enable image streaming off Wi-fi
+105. disable image streaming off Wi-Fi
+106. enable image streaming off data
+107. disable image streaming off data
+108. enable file streaming off Wi-fi
+109. disable file streaming off Wi-Fi
+110. enable file streaming off data
+111. disable file streaming off data
+112. enable document streaming off Wi-fi
+113. disable document streaming off Wi-Fi
+114. enable document streaming off data
+115. disable document streaming off data
+116. enable alarm
+117. disable alarm
+118. enable digital clock
+119. disable digital clock
+120. enable analog clock
+121. disable analog clock
+122. enable 1st person desktop view
+123. disable 1st person desktop view
+124. enable 2nd person desktop view
+125. disable 2nd person desktop view
+126. enable 3rd person desktop view
+127. disable 3rd person desktop view
+128. customize character
+129. default character
+130. change mouse pointer speed
+131. default mouse pointer speed
+132. change click speed
+133. default click speed
+134. enable 1 person use
+135. disable 1 person use
+136. enable 2 person use
+137. disable 2 person use
+138. enable 3 person use
+139. disable 3 person use
+140. enable 4 person use
+141. disable 4 person use
+142. change scroll speed
+143. default scroll speed
+144. switch user
+145. enable double login
+146. disable double login
+147. enable single login
+148. disable single login
+149. enable triple login
+150. disable triple login
+151. enable quadruple login
+152. disable quadruple login 
+153. change password
+154. enable password
+155. disable password
+156. enable scroll wheel
+157. disable scroll wheel
+158. change startup sound
+159. default startup sound
+160. change log on sound
+161. default log on sound
+162. change sign on sound
+163. default sign in sound
+164. change log out sound
+165. default log out sound
+166. change sign out sound
+167. default sign out sound
+168. change shutdown sound
+169. default shutdown sound
+170. change keyboard settings/keys
+171. reset keyboard settings
+172. enable window-grid
+173. disable window-grid
+174. change window grid angle count
+175. change window grid default spawn shape
+176. disable window grid auto-spawn
+177. enable window grid auto-spawn
+178. default window theme
+179. change window theme
+180. enable non-touch window timeout
+181. disable non-touch window timeout
+182. change password hint
+183. enable password hint
+184. disable password hint
+185. enable gadgets
+186. disable gadgets
+187. enable downloads
+188. disable downloads
+189. enable uploads
+190. disable uploads
+191. enable hover-glow
+192. disable hover-glow
+193. set time limit
+194. enable time limit
+195. disable time limit
+196. set user time limit
+197. enable user time limit
+198. disable user time limit
+199. change user time limit settings for all users
+200. enable cookies
+201. disable cookies
+202. customize mouse pointer
+203. default mouse pointer
+204. view folder icon library
+205. enable folder icon library
+206. disable folder icon library
+207. disable auto-shortcut for files
+208. enable auto-shortcut for files
+209. disable auto-shortcut for apps
+210. enable auto-shortcut for apps
+211. disable auto-shortcut for videos
+212. enable auto-shortcut for videos
+213. disable auto-shortcut for documents
+214. enable auto-shortcut for documents
+215. disable auto-shortcut for images
+216. enable auto-shortcut for images
+217. disable auto-shortcut for audio
+218. enable auto-shortcut for audio
+219. change profile picture
+220. enable profile picture
+221. disable profile picture
+222. enable animated profile picture
+223. disable animated profile picture
+224. enable animated profile picture for all users
+225. disable animated profile picture for all users
+226. enable animated profile pictures
+227. disable animated profile pictures
+228. enable animated profile pictures for all users
+229. disable animated profile pictures for all users
+230. enable location
+231. disable location
+232. enable bluetooth
+233. disable bluetooth
+234. encrypt IP address
+235. decrypt IP address
+236. enable timer
+237. disable timer
+238. change timer duration
+239. enable stopwatch
+240. disable stopwatch
+241. reset stopwatch
+242. pause stopwatch
+243. start stopwatch
+244. resume stopwatch
+245. clear background
+246. change video quality
+247. change image quality
+248. change bit-type
+249. eject all media devices
+250. burn all
+251. display video resolution
+252. stop displaying video resolution
+253. display image resolution
+254. stop displaying image resolution
+255. display version number
+256. stop displaying version number
+257. display build number
+258. stop displaying build number
+259. display location
+260. stop displaying location
+261. display username
+262. stop displaying username
+263. display email address
+264. stop displaying email address
+265. change username
+266. change main email
+267. enable email
+268. disable email
+269. child mode settings
+270. enable child mode
+271. disable child mode
+272. custom icon
+273. add icon to icon library
+274. html background site
+275. enable html background
+276. disable html background
+277. delete all cookies
+278. restore all cookies
+279. enable control key
+280. disable control key
+281. enable caps lock key
+282. disable caps lock key
+283. enable shift key
+284. disable shift key
+285. enable alt key
+286. disable alt key
+287. enable command key
+288. disable command key
+289. enable delete key
+290. disable delete key
+291. enable function key
+292. disable function key
+293. enable tab key
+294. disable tab key
+295. enable escape key
+296. disable escape key
+297. enable auto-fit
+298. disable auto-fit
+299. enable auto-maximization
+300. disable auto-maximization
+301. enable autocorrect
+302. disable autocorrect
+303. enable spell check
+304. disable spell check
+305. enable unicode characters
+306. disable unicode characters
+307. enable viewing unicode characters
+308. disable viewing unicode characters
+309. enable emojis
+310. disable emojis
+311. enable viewing emojis
+312. disable viewing emojis
+313. mute headphones
+314. unmute headphones
+315. mute microphone
+316. unmute microphone
+317. mute speakers
+318. unmute speakers
+319. unmount all media
+320. enable SD card
+321. disable SD card
+322. enable flash drive
+323. disable flash drive
+324. enable floppy disks
+325. disable floppy disks
+326. enable USB drives
+327. disable USB drives
+328. enable SIM card
+329. disable SIM card
+330. enable animated icons
+331. disable animated icons
+332. enable filename animations
+333. disable filename animations
+334. enable custom file name colors
+335. disable custom file name colors
+336. change file name color for selected files
+337. change file name color for all files
+338. change filename animations for selected files
+339. change filename animations for all files
+340. enable contrast control
+341. disable contrast control
+342. enable brightness control
+343. disable brightness control
+344. enable public personalization
+345. disable public personalization
+346. enable animated background
+347. disable animated background
+348. antigravity mode
+349. gravity mode
+350. lock selected apps
+351. unlock selected apps
+352. lock selected files
+353. unlock selected files
+354. lock all files
+355. unlock all files
+356. lock all apps
+357. unlock all apps
+358. show mouse X
+359. hide mouse X
+360. show mouse Y
+361. hide mouse Y
+362. show mouse Z
+363. hide mouse Z
+364. enable using mouse with keyboard
+365. disable using mouse with keyboard 
+366. show mouse X for all mice
+367. hide mouse X for all mice
+368. show mouse Y for all mice
+369. hide mouse Y for all mice
+370. show mouse Z for all mice
+371. hide mouse Z for all mice
+372. app size 1%
+373. file size 1%
+374. app size 2%
+375. file size 2%
+376. app size 3%
+377. file size 3%
+378. app size 4%
+379. file size 4%
+380. app size 5%
+381. file size 5%
+382. app size 6%
+383. file size 6%
+384. app size 7%
+385. file size 7%
+386. app size 8%
+387. file size 8%
+388. app size 9%
+389. file size 9%
+390. app size 10%
+391. file size 10%
+392. app size 11%
+393. file size 11%
+394. app size 12%
+395. file size 12%
+396. app size 13%
+397. file size 13%
+398. app size 14%
+399. file size 14%
+400. app size 15%
+401. file size 15%
+402. app size 16%
+403. file size 16%
+404. app size 17%
+405. file size 17%
+406. app size 18%
+407. file size 18%
+408. app size 19%
+409. file size 19%
+410. app size 20%
+411. file size 20%
+412. custom app size 
+413. custom file size
+414. auto align-apps
+415. auto align-files
+416. stop aligning apps
+417. stop aligning files
+418. enable public file renaming
+419. disable public file renaming
+420. enable long file names
+421. disable long file names
+422. enable inverted colors
+423. disable inverted colors
+424. enable greyscale
+425. disable greyscale
+426. enable black on white
+427. disable black on white
+428. clear main clipboard
+429. clear all clipboards
+430. set clipboard 1
+431. enable clipboard 1
+432. clear clipboard 1
+433. set clipboard 2
+434. enable clipboard 2
+435. clear clipboard 2
+436. set clipboard 3
+437. enable clipboard 3
+438. clear clipboard 3
+439. set clipboard 4
+440. enable clipboard 4
+441. clear clipboard 4
+442. set clipboard 5
+443. enable clipboard 5
+445. clear clipboard 5
+446. set clipboard 6
+447. enable clipboard 6
+448. clear clipboard 6
+449. set clipboard 7
+450. enable clipboard 7
+451. clear clipboard 7
+452. set clipboard 8
+453. enable clipboard 8
+454. clear clipboard 8
+457. set clipboard 9
+458. enable clipboard 9
+459. clear clipboard 9
+460. limit clipboard capacity for all clipboards
+461. no clipboard limit for all clipboards
+462. set clipboard limit capacity for clipboard 1
+463. disable clipboard limit capacity for clipboard 1
+464. set clipboard limit capacity for clipboard 2
+465. disable clipboard limit capacity for clipboard 2
+466. set clipboard limit capacity for clipboard 3
+467. disable clipboard limit capacity for clipboard 3
+468. set clipboard limit capacity for clipboard 4
+469. disable clipboard limit capacity for clipboard 4
+470. set clipboard limit capacity for clipboard 5
+471. disable clipboard limit capacity for clipboard 5
+472. set clipboard limit capacity for clipboard 6
+473. disable clipboard limit capacity for clipboard 6
+474. set clipboard limit capacity for clipboard 7
+475. disable clipboard limit capacity for clipboard 7
+476. set clipboard limit capacity for clipboard 8
+477. disable clipboard limit capacity for clipboard 8
+478. set clipboard limit capacity for clipboard 9
+479. disable clipboard limit capacity for clipboard 9
+480. enable black and white mode
+481. disable black and white mode
+482. enable calculator
+483. disable calculator
+484. enable notepad
+485. disable notepad
+486. button size 1%
+487. button size 2%
+488. button size 3%
+489. button size 4%
+490. button size 5%
+491. button size 6%
+492. button size 7%
+493. button size 8%
+494. button size 9%
+495. button size 10%
+496. button size 11%
+497. button size 12%
+498. button size 13%
+499. button size 14%
+500. button size 15%
+501. button size 16%
+502. button size 17%
+503. button size 18%
+504. button size 19%
+505. button size 20%
+506. custom button size
+507. enable text background
+508. disable text background
+509. enable guest rank
+510. disable guest rank
+511. enable teacher rank
+512. disable teacher rank
+513. enable admin rank
+514. disable admin rank
+515. enable moderator rank
+516. disable moderator rank
+517. create a domain
+518. enable office rank
+519. disable office rank
+520. enable owner rank
+521. disable owner rank
+522. show password while typing
+523. hide password while typing
+524. default mouse size
+525. mouse size 1%
+526. mouse size 2%
+527. mouse size 3%
+528. mouse size 4%
+529. mouse size 5%
+530. mouse size 6%
+531. mouse size 7%
+532. mouse size 8%
+533. mouse size 9%
+534. mouse size 10%
+535. mouse size 11%
+536. mouse size 12%
+537. mouse size 13%
+538. mouse size 14%
+539. mouse size 15%
+540. mouse size 16%
+541. mouse size 17%
+542. mouse size 18%
+543. mouse size 19%
+544. mouse size 20%
+545. custom mouse size
+546. enable button touchgrow
+547. disable button touchgrow
+548. enable F1 key
+549. disable F1 key
+550. enable F2 key
+551. disable F2 key
+552. enable F3 key
+553. disable F3 key
+554. enable F4 key
+555. disable F4 key
+556. enable F5 key
+557. disable F5 key
+558. enable F6 key
+559. disable F6 key
+560. enable F7 key
+561. disable F7 key
+562. enable F8 key
+563. disable F8 key
+564. enable F9 key
+565. disable F9 key
+566. enable F10 key
+567. disable F10 key
+568. enable F11 key
+569. disable F11 key
+570. enable F12 key
+571. disable F12 key
+572. enable globe 3d background
+563. enable flat 3d background
+564. add custom startup sound
+565. add custom shutdown sound
+566. add custom logon sound
+567. add custom logoff sound
+568. add custom signon sound
+569. add custom signoff sound
+570. switch startup and shutdown sounds
+571. switch logon and logoff sounds
+572. switch signin and signout sounds
+573. enable 3d buttons
+574. disable 3d buttons
+575. enable 3d close button
+576. disable 3d close button
+577. enable 3d help button
+578. disable 3d help button
+579. enable 3d minimize button
+580. disable 3d minimize button
+581. enable 3d maximize button
+582. disable 3d maximize button
+583. enable jumpbars
+584. disable jumpbars
+585. enable scrollbars
+586. disable scrollbars
+587. enable checkmarks
+588. disable checkmarks
+589. enable logon
+590. disable logon
+591. enable logoff 
+592. disable logoff
+593. enable signon
+594. disable signon
+595. enable signoff
+596. disable signoff
+597. enable background watermark
+598. disable background watermark
+599. set max amount of open apps
+600. set max amount of deleted apps
+601. enable in-app purchases
+602. disable in-app purchases
+603. render distance 1
+604. render distance 2
+605. render distance 3
+606. render distance 4
+607. render distance 5
+608. render distance 6
+609. render distance 7
+610. render distance 8
+611. render distance 9
+612. render distance 10
+613. render distance 11
+614. render distance 12
+615. render distance 13
+616. render distance 14
+617. render distance 15
+618. render distance 16
+619. render distance 17
+620. render distance 18
+621. render distance 19
+622. render distance 20
+623. render distance 21
+624. render distance 22
+625. render distance 23
+626. render distance 24
+627. render distance 25
+628. render distance 26
+629. render distance 27
+630. render distance 28
+631. render distance 29
+632. render distance 30
+633. render distance 31
+634. render distance 32
+635. enable product key password protection
+636. disable product key password protection
+637. enable ghost icons
+638. disable ghost icons
+639. enable ghost pages
+640. disable ghost pages
+641. enable ghost buttons
+642. disable ghost buttons
+643. enable glass icons
+644. disable glass icons
+645. enable glass pages
+646. disable glass pages
+647. enable glass buttons
+648. disable glass buttons
+649. get new product key
+650. lock default theme
+651. unlock default theme
+652. lock current theme
+653. unlock current theme
+654. lock ocean theme
+655. unlock ocean theme
+656. unlock medievel theme
+657. lock medievel theme
+658. lock forest theme
+659. unlock forest theme
+660. lock walla walla theme
+661. unlock walla walla theme
+662. lock spokane theme
+663. unlock spokane theme
+664. lock jungle theme
+665. unlock jungle theme
+673. lock space theme
+674. unlock space theme
+675. lock volcano theme
+676. unlock volcano theme
+677. lock solid color theme
+678. unlock solid color theme
+679. lock gradient theme
+680. unlock gradient theme
+681. lock custom theme
+682. unlock custom theme
+683. lock american theme
+684. unlock american theme
+685. distort startup sound
+686. undistort startup sound
+687. distort logon sound
+688. undistort logon sound
+689. distort signon sound
+690. undistort signon sound
+691. distort signoff sound
+692. undistort signoff sound
+693. distort logoff sound
+694. undistort logoff sound
+695. distort shutdown sound
+696. undistort shutdown sound
+697. distort error message sound
+698. undistort error message sound
+699. display filename under icon
+700. display filename over icon
+701. display filename on left of icon
+702. display filename on right of icon
+703. default battery color
+704. change battery color
+705. battery charging mode
+706. stop charging
+707. start charging
+708. one click to open up main menu
+709. double click to open up main menu
+710. triple click to open up main menu
+711. quadruple click to open up main menu
+712. one click to press a button
+713. double click to press a button
+714. triple click to press a button
+715. quadruple click to press a button
+716. enable dialog messages
+717. disable dialog messages
+718. enable multiple default browsers
+719. disable multiple default browsers
+720. change default browser
+721. show click speed
+722. hide click speed
+723. show key log
+724. hide key log
+725. show words per minute
+726. hide words per minute
+727. allow access to system files (VM only)
+728. don't allow access to system files (VM only)
+729. enable on-screen keyboard
+730. disable on-screen keyboard
+731. enable emojis
+732. disable emojis
+733. enable on-screen emoji keyboard
+734. disable on-screen emoji keyboard
+735. enable on-screen emotican keyboard
+736. disable on-screen emotican keyboard
+737. change clock color
+738. default clock color
+739. enable pixelated clock
+740. disable pixelated clock
+741. enable shortcuts
+742. disable shortcuts
+743. enable pixelate mode
+744. disable pixelate mode
+745. enable rainbow mode
+746. disable rainbow mode
+747. enable delete sound
+748. disable delete sound
+749. change delete sound
+750. default delete sound
+751. enable delete confirmation
+752. disable delete confirmation
+753. enable highlight mode
+754. disable highlight mode
+755. enable animated pages
+756. disable animated pages
+757. enable selection on pinned items
+758. disable selection on pinned items
+759. enable selection on buttons
+760. disable selection buttons
+761. change window color
+762. disable window color
+763. enable window color
+764. default window color
+765. change window graphics
+766. disable window graphics
+767. enable selection within pages
+768. disable selection within pages
+769. enable selection on tools
+770. disable selection on tools
+771. default selection settings
+772. enable selections on menu bar
+773. disable selections on menu bar
+774. enable selection on clock
+775. disable selection on clock
+776. enable selection on system files
+777. disable selection on system files
+778. enable selection on calendar
+779. disable selection on calendar
+780. enable selection on videos
+781. disable selection on videos
+782. enable selection on images
+783. disable selection on images
+784. auto lock pages
+785. auto unlock pages
+786. lock pages
+787. unlock pages
+788. enable animated main menu button
+789. disable animated main menu button
+790. allow overlapping sounds
+791. disallow overlapping sounds
+792. show file sizes in bytes
+793. show file sizes in kilobytes
+794. show file sizes in megabytes
+795. show file sizes in gigabytes
+796. show file sizes in terabytes
+797. show file sizes in petabytes
+798. show file sizes in exabytes
+799. show file sizes in zettabytes
+800. show file sizes in yottabytes
+801. show file sizes in bits
+802. edit partition
+803. distort all system sounds
+804. undistort all system sounds
+805. turn on notifications
+806. turn off notifications
+807. show hidden processes on tab area
+808. hide hidden processes on tab area
+809. show colored checkboxes
+810. hide colored checkboxes
+811. enable colored checkboxes
+812. disable colored checkboxes
+813. enable animated checkboxes
+814. disable animated checkboxes
+815. change checkbox color
+816. change checkbox animation
+817. default checkbox color
+818. default checkbox animation 
+819. show battery percentage
+820. hide battery percentage
+821. show battery percentage decimal .0
+822. hide battery percentage decimal .0
+823. show battery percentage decimal .00
+824. hide battery percentage decimal .00
+825. enable always on display
+826. disable always on display
+827. show battery life remaining estimate
+828. hide battery life remaining estimate
+829. show battery charge remaining estimate
+830. hide battery charge remaining estimate
+831. enable time travel
+832. disable time travel
+833. use password to log on
+834. don't use password to log on
+835. use password to sign on
+836. don't use password to sign on
+837. use password to log off
+838. don't use password to log off
+839. use password to sign off
+840. don't use password to sign off
+841. don't automatically enter username at login
+842. automatically enter username at login
+843. don't automatically enter username at signin
+844. automatically enter username at signin
+845. don't automatically enter password at login
+846. automatically enter password at login
+847. don't automatically enter password at signin
+848. automatically enter password at signin
+849. enable notify users at application startup
+850. disable notify users at application startup
+851. enable virtual machines
+852. disable virtual machines
+853. enable seconds tickdown
+854. disable seconds tickdwon
+855. default seconds tick sound
+856. change seconds tick sound
+857. enable minutes tickdown
+858. disable minutes tickdwon
+859. default minutes tick sound
+860. change minutes tick sound
+861. enable hours tickdown
+862. disable hours tickdwon
+863. default hours tick sound
+864. change hours tick sound
+865. enable AM tick sound
+866. disable AM tick sound
+867. change AM tick sound
+868. default AM tick sound
+869. enable PM tick sound
+870. disable PM tick sound
+871. change PM tick sound
+872. default PM tick sound
+873. enable autocorrect in renaming mode
+874. disable autocorrect in renaming mode
+875. enable spellcheck in renaming mode
+876. disable spellcheck in renaming mode
+877. set delete limit
+878. default delete limit (500 TB)
+879. enable delete limit
+880. disable delete limit
+881. set seconds tick before startup sound
+882. remove seconds tick before startup sound
+883. set minutes tick before startup sound
+884. remove minutes tick before startup sound
+885. set hours tick before startup sound
+886. remove hours tick before startup sound
+887. show milliseconds at login screen
+888. don't show milliseconds at login screen
+889. show seconds at login screen
+890. don't show seconds at login screen
+891. show minutes at login screen
+892. don't show minutes at login screen
+893. show hours at login screen
+894. don't show hours at login screen
+895. show day of week at login screen
+896. don't show day of week at login screen
+897. show year at login screen
+898. don't show year at login screen
+899. show month number at login screen
+900. don't show month number at login screen
+901. show month name at login screen
+902. don't show month name at login screen
+903. show current season at login screen
+904. don't show current season at login screen
+905. enable infinite scroll
+906. disable infinite scroll
+907. enable autoscroll
+908. disable autoscroll
+909. turn screen on when notification is received
+910. don't turn screen on when notification is received
+911. don't turn screen on when notification is received below [%] battery
+912. enable audio during sleep mode
+913. disable audio during sleep mode
+914. muffle audio during sleep mode
+915. don't muffle audio during sleep mode
+916. distort audio during sleep mode
+917. don't distort audio during sleep mode
+918. login after sleep mode
+919. don't login after sleep mode
+920. show icon grid
+921. don't show icon grid
+922. change icon grid color
+923. default icon grid color (silver)
+924. display calendar as list
+925. don't display calendar as list
+926. enable infinite background
+927. disable infinite background
+928. enable filename affecting file size
+929. disable filename affecting file size
+930. show file extensions
+931. hide file extensions
+932. enable 3D text
+933. disable 3D text
+934. enable 3D text in filenames
+935. disable 3D text in filenames
+936. enable lowercase letters
+937. disable lowercase letters
+938. enable capital letters
+939. disable capital letters
+940. allow emojis in file names
+941. don't allow emojis in file names
+942. allow special characters in file names
+943. don't allow special characters in file names
+944. change search bar color
+945. default search bar color (silver)
+946. enable background border
+947. disable background border
+948. change background border thickness
+949. change background border shade
+950. default background border thickness (3)
+951. default background border shade (1)
+952. change background border (1-10000)
+953. enable search only for apps and files
+954. disable search only for apps and files
+955. enable search only for apps
+956. disable search only for apps
+957. enable search only for files
+958. disable search only for files
+959. enable animated thumbnails in file navigator
+960. disable animated thumbnails in file navigator
+961. enable video previews in file navigator
+962. disable video previews in file navigator
+963. change video preview duration (0.5 seconds to 30 seconds)
+964. enable image previews in file navigator
+965. disable image previews in file navigator
+966. enable audio previews in file navigator
+967. disable audio previews in file navigator
+968. only show audio contents in previews
+969. play audio in previews
+970. change audio preview duration (0.5 seconds to 30 seconds)
+971. enable document previews in file navigator
+972. disable document previews in file navigator
+973. enable 3d birdseye view
+974. disable 3d birdseye view
+975. enable 2d birdseye view
+976. disable 2d birdseye view
+977. enable tips on startup
+978. disable tips on startup
+979. default volume bar color (bronze)
+980. change volume bar color
+981. enable color change by volume bar
+982. disable color change by volume bar
+983. enable color change by theme on volume bar
+984. disable color change by theme on volume bar
+985. enable volume bar
+986. disable volume bar
+987. enable subtitles
+988. disable subtitles
+989. change subtitles language
+990. default subtitles language (language of your system)
+991. default scrollbar color (blue)
+992. change scrollbar color
+993. change scroll bar theme
+994. change scroll bar texture
+995. default scroll bar texture
+996. default scroll bar theme
+997. change loading animation for mouse
+998. default loading animation for mouse (hourglass)
+999. change loading animation for startup
+1000. default loading animation for startup (system loading screen)
+1001. change loading animation for logon
+1002. default loading animation for logon (spinning keychain)
+1003. change loading animation for logoff
+1004. default loading animation for logoff (spinning keychain)
+1005. change loading animation for shutdown
+1006. default loading animation for shutdown (closing animation)
+1007. default volume bar location (bottom middle)
+1008. change volume bar location
+1009. default brightness bar location (bottom middle)
+1010. change brightness bar location
+1011. default contrast bar location (bottom middle)
+1012. change contrast bar location
+1013. add payment rule to join desktop server
+1014. change price to join desktop server
+1015. remove payment rule to join desktop server
+1016. enter mobile mode
+1017. enter desktop mode
+1018. change server resolution
+1019. match resolution to server
+1020. track server
+1021. stop tracking server
+1022. manage server rules
+1023. change server bandwidth
+1024. default server bandwidth (20 GB/s per user)
+1025. make server private
+1026. make server public
+1027. make server unlisted
+1028. manage admins
+1029. add admins
+1030. close server
+1031. open server
+1032. remove server cap
+1033. set server cap
+1034. view people on server
+1035. clear server rules
+1036. server whitelist
+1037. server blacklist
+1038. view server whitelist
+1039. view server blacklist
+1040. view file extension whitelist
+1041. view file extension blacklist
+1042. enable RAM usage bar
+1043. disable RAM usage bar
+1044. enable CPU usage bar
+1045. disable CPU usage bar
+1046. enable percent bar to increase by <%>
+1047. disable precent bar to increase by <%>
+1048. show percentage
+1049. hide percentage
+1050. enable offline definitions
+1051. disable offline definitions
+1052. clear startup folder
+1053. clear shutdown folder
+1054. clear logoff folder
+1055. clear signoff folder
+1056. clear login folder
+1057. clear signin folder
+1058. select background
+1059. invert selection
+1060. select all
+1061. enable tab art
+1062. disable tab art
+1063. lock tab art
+1064. unlock tab art
+1065. change tab art
+1066. enable greyscale tab art
+1067. disable greyscale tab art
+1068. enable black and white tab art
+1069. disable black and white tab art
+1070. enable colored tab art
+1071. disable colored tab art
+1072. enable tab arts for different tabs
+1073. disable tab arts for different tabs
+1074. enable bold tab names
+1075. enable normal tab names
+1076. enable italic tab names
+1077. enable cross through tab names
+1078. enable strikethrough tab names
+1079. enable cross out tab names
+1080. disable bold tab names
+1081. disable normal tab names
+1082. disable italic tab names
+1083. disable cross through tab names
+1084. disables trikethrough tab names
+1085. disable cross out tab names
+1086. show file location on tabs
+1087. hide file location on tabs
+1088. folder jump back
+1089. folder jump forward
+1090. edit folder jumpback settings
+1091. edit folder jump forward settings
+1092. enable light spots
+1093. disable light spots
+1094. enable dark spots
+1095. disable dark spots
+1096. set close button lightspot
+1097. remove close button lightspot
+1098. set close button dark spot
+1099. remove close button dark spot
+1100. set file text lightspot
+1101. remove file text lightspot
+1102. set dialog box lightspot
+1103. remove dialog box lightspot
+1104. set dialog box darkspot
+1105. remove dialog box darkspot
+1106. set file text dark spot
+1107. remove file text dark spot
+1108. enable mouse light (following lightup by cursor)
+1109. disable mouse light
+1110. enable dark mouse (following darkness by cursor)
+1111. disable dark mouse
+1112. set button lightspot
+1113. remove button lightspot
+1114. set button darkspot 
+1115. remove button darkspot
+1116. set folder lightspot
+1117. remove folder lightspot
+1118. set folder darkspot
+1119. remove folder darkspot
+1120. set video lightspot
+1121. remove video lightspot
+1122. set video darkspot
+1123. remove video darkspot
+1124. set image lightspot
+1125. remove image lightspot
+1126. set image darkspot
+1127. remove image darkspot
+1128. set background lightspot
+1129. remove background lightspot
+1130. set background darkspot
+1131. remove background darkspot
+1132. set scrollbar lightspot
+1133. remove scrollbar lightspot
+1134. set scrollbar darkspot
+1135. remove scrollbar darkspot
+1136. enable contrast spots
+1137. remove contrast spots
+1138. set background contrast spots
+1139. remove background contrast spots
+1140. set scrollbar contrast spots
+1141. remove scrollbar contrast spots
+1142. change darkspot brightness
+1143. change lightspot brightness
+1144. change contrast spot colors
+1145. change contrast spot brightness
+1146. set file text contrast spots
+1147. remove file text contrast spots
+1148. set folder contrast spots
+1149. remove folder contrast spots
+1150. remove all dark spots
+1151. remove all light spots
+1152. remove all contrast spots
+1153. set close button contrast spots
+1154. remove close button contrast spots
+1155. set dialog box contrast spots
+1156. remove dialog box contrast spots
+1157. set contrast mouse (cursor that changes contrast wherever it goes/switchable to cursor that changes contrast of other items wherever it goes)
+1158. remove contrast mouse
+1159. set image contrast spots
+1160. remove image contrast spots
+1161. set video contrast spots
+1162. remove video contrast spots
+1163. block clipboard popups
+1164. unblock clipboard popups
+1165. block clipboard 1 popups
+1166. unblock clipboard 1 popups
+1167. block clipboard 2 popups
+1168. unblock clipboard 2 popups
+1169. block clipboard 3 popups
+1170. unblock clipboard 3 popups
+1171. block clipboard 4 popups
+1172. unblock clipboard 4 popups
+1173. block clipboard 5 popups
+1174. unblock clipboard 5 popups
+1175. block clipboard 6 popups
+1176. unblock clipboard 6 popups
+1177. block clipboard 7 popups
+1178. unblock clipboard 7 popups
+1179. block clipboard 8 popups
+1180. unblock clipboard 8 popups
+1181. block clipboard 9 popups
+1182. unblock clipboard 9 popups
+1183. enable clipboard
+1184. disable clipboard
+1185. enable clipboard animations
+1186. disable clipboard animations
+1187. default clipboard animation (hand to user)
+1188. change clipboard animation
+1189. enable text on clipboard
+1190. disable text on clipboard
+1191. enable images on clipboard
+1192. disable images on clipboard
+1193. enable applications on clipboard
+1194. disable applications on clipboard
+1195. enable videos on clipboard
+1196. disable videos on clipboard
+1197. enable folders on clipboard
+1198. disable folders on clipboard
+1199. enable audio on clipboard
+1200. disable audio on clipboard
+1201. enable media on clipboard
+1202. disable media on clipboard
+1203. enable documents on clipboard
+1204. disable documents on clipboard
+1205. enable shortcuts on clipboard
+1206. disable shortcuts on clipboard
+1207. change clipboard skin
+1208. remove clipboard skin
+1209. enable clipboard skin
+1210. default clipboard skin (plywood)
+1211. enable multiple file capacity on clipboard
+1212. disable multiple file capacity on clipboard
+1213. enable file highway
+1214. disable file highway
+1215. enable file highway specs
+1216. disable file highway specs
+1217. enable file highway animation
+1218. disable file highway animation
+1219. view service packs
+1220. disable view service packs
+1221. enable view service packs
+1222. enable virtual machines
+1223. disable virtual machines
+1224. snapshot
+1225. eject history drive
+1226. mount history drive
+1227. verify file
+1228. verify selected files
+1229. verify folders
+1230. verify selected folders
+1231. verify directory
+1232. verify selected directories
+1233. setup public server
+1234. enable public file changes
+1235. disable public file changes
+1236. desktop layer style: paper
+1237. desktop layer style: wood
+1238. desktop layer style: board
+1239. desktop layer style: brick
+1240. desktop layer style: body
+1241. set layer 1
+1242. remove layer 1
+1243. modify layer 1
+1244. set layer 2
+1245. remove layer 2
+1246. modify layer 2
+1247. set layer 3
+1248. remove layer 3
+1249. modify layer 3
+1250. set layer 4
+1251. remove layer 4
+1252. modify layer 4
+1253. set layer 5
+1254. remove layer 5
+1255. modify layer 5
+1256. take screenshot
+1257. VR mode
+1258. turn VR mode off
+1259. flip window
+1260. turn window 1 degree right
+1261. turn window 1 degree left
+1262. turn window 2 degrees right
+1263. turn window 2 degrees left
+1264. turn window 3 degrees right
+1265. turn window 3 degrees left
+1266. turn window 4 degrees right
+1267. turn window 4 degrees left
+1268. turn window 5 degrees right
+1269. turn window 5 degrees left
+1270. turn window 6 degrees right
+1270. turn window 6 degrees left
+1271. turn window 7 degrees right
+1272. turn window 7 degrees left
+1273. turn window 8 degrees right
+1274. turn window 8 degrees left
+1275. turn window 9 degrees right
+1277. turn window 9 degrees left
+1278. turn window 10 degrees right
+1279. turn window 10 degrees left
+1280. set file directory size gradient
+1281. reset file directory size gradient
+1282. change partition color
+1283. edit partition
+1284. create partition
+1285. reboot in safe mode
+1286. change boot screen
+1287. create user
+1288. remove user
+1289. set public view timer
+1290. turn likes on
+1291. turn likes off
+1292. reset public viewtime
+1293. set visitor as host
+1294. set visitor as guest
+1295. set visitor as admin
+1296. verify visitor
+1297. unverify user
+1298. show view count
+1299. hide view count
+1300. show uptime
+1301. hide uptime
+1302. show activity logs
+1303. hide activity logs
+1304. enable public snapshot viewing
+1305. disable public snapshot viewing
+1306. enable desktop ruler
+1307. disable desktop ruler
+1308. change novice calculator settings
+1309. reset novice calculator settings
+1310. enable novice calculator
+1311. disable novice calculator
+1312. change snapshot info
+1313. publish snapshot
+1314. set user limit
+1315. set public viewer limit
+1316. scan for malware
+1317. scan for adware
+1318. scan for ransomware
+1319. scan for trojans
+1320. scan for viruses
+1321. scan for worms
+1322. scan for spyware
+1323. set auto scan timer to every _ ot **x**
+1324. reset autoscan timer
+1325. disable autoscan timer
+1326. enable autoscan timer
+1327. ban user
+1328. unban user
+1329. ban selected users
+1330. unban selected users
+1331. ban guest
+1332. unban guest
+1333. ban selected guests
+1334. unban selected guests
+1335. change battery color
+1336. reset battery color
+1337. enable gadget library
+1338. disable gadget library
+1339. carve desktop
+1340. uncarve desktop
+1341. embed program
+1342. remove embedding for program
+1343. embed file
+1344. remove embedding for file
+1345. embed all programs
+1346. remove embedding for all programs
+1347. embed all files
+1348. remove embedding for all files
+1349. turn sound sensing/person on
+1350. turn sound sensing/person off
+1351. partition network drive
+1352. show network drive cache
+1353. hide network drive cache
+1354. clear network drive cache
+1355. enable firewall
+1356. disable firewall
+1357. change 3D interface for Windows
+1358. change 3D interface for Buttons
+1359. restore registry
+1360. edit registry
+1361. self-initialize crash
+1362. change user icon
+1363. allow animated user icons
+1364. don't allow animated user icons
+1365. enable ASCII keyboard
+1366. disable ASCII keyboard
+1367. enable on-screen keyboard
+1368. disable on-screen keyboard
+1369. allow unicode characters in password
+1370. don't allow unicode characters in password
+1371. allow emojis in password
+1372. don't allow emojis in password
+1373. make password case sensitive
+1374. don't make password case sensitive
+1375. read password by letter
+1376. don't read password by letter
+1377. read password by number
+1378. don't read password by number
+1379. show password 1 character at a time
+1380. don't show password 1 character at a time
+1381. show password 2 characters at a time
+1382. don't show password 2 characters at a time
+1383. show password 3 characters at a time
+1384. don't show password 3 characters at a time
+1385. show password 4 characters at a time
+1386. don't show password 4 characters at a time
+1387. set password limit
+1388. reset password
+1389. read headers
+1390. don't read headers
+1391. read footers
+1392. don't read footers
+1393. read Unicode
+1394. don't read unicode
+1395. change crash screen color
+1396. make a screensaver
+1397. choose a screensaver
+1398. edit screensaver
+1399. enable screensaver
+1400. disable screensaver
+1401. screen saver after * time
+1402. set user limit
+1403. allocate ** bytes of RAM ot guests
+1404. allocate ** bytes of RAM to admin
+1405. allocate ** bytes of RAM to host
+1406. view local machines
+1407. like machine
+1408. unlike machine
+1409. view machine
+1410. favorite machine
+1411. unfavorite machine
+1412. report machine for copyright
+1413. report machine for hate speech
+1414. report machine for nudity
+1415. report machine for inappropriate content
+1416. view machine reports
+1417. set NSFW rule for machine
+1418. remove NSFW rule for machine
+1419. set machine as testing
+1420. remove machine for testing
+1421. report machine for malware
+1422. report machine for spyware
+1423. report machine for ransomware
+1424. report machine for worms
+1425. report machine for trojans
+1426. report machine for viruses
+1427. report machine for adware
+1428. set icon size to *x* (between 8x8 and 2048x2048)
+1429. view machine specs
+1430. embed processes list
+1431. remove embedding for processes list
+1432. disable defender service pack
+1433. enable defender service pack
+1434. disable ISP service pack
+1435. enable ISP service pack
+1436. disable network service pack
+1437. enable network service pack
+1438. disable 3D desktop service pack
+1439. enable 3D desktop service pack
+1440. edit mouse pointer
+1441. switch mouse pointer pack
+1442. keyboard mode
+1443. touch keyboard mode
+1444. mouse mode
+1445. voice mode
+1446. view partition as pie chart
+1447. view partition as column chart
+1448. view partition as 3D pie chart
+1449. view partition as 3D Column chart
+1450. view partition as line graph
+1451. view partition as 3D line graph
+1452. view partition as bar graph
+1453. view partition as 3D bar graph
+1454. change startup sound
+1455. set boot timer
+1456. remove boot timer
+1457. log boot timer
+1458. don't log boot timer
+1459. enable boot timer dialog
+1460. disable boot timer dialog
+1461. enable pie chart animation 
+1462. disable pie chart animation
+1463. enable column chart animation
+1464. disable column chart animation
+1465. enable 3D pie chart animation
+1466. disable 3D pie chart animation
+1467. enable 3D column chart animation
+1468. disable 3D column chart animation
+1469. enable line graph animation
+1470. disable line graph animation
+1471. enable 3D line graph animation
+1472. disable 3D line graph animation
+1473. enable bar graph animation
+1474. disable bar graph animation
+1475. enable 3D bar graph animation
+1476. disable 3D bar graph animation
+1477. change pie chart animation
+1478. change column chart animation
+1479. change 3D pie chart animation
+1480. change 3D column chart animation
+1481. change line graph animation
+1482. change 3D line graph animation
+1483. change bar graph animation
+1484. change 3D bar graph animation
+1485. 3D chart = cylinder
+1486. 3D chart = prism
+1487. 3D chart = Square
+1488. 3D chart = rectangle
+1489. 3D chart = small squares
+1490. 3D chart = Cone
+1491. 3D Chart = poly blocks
+1492. 3D chart = hive block
+1493. 3D chart = Square case
+1494. 3D chart = rectangle case
+1495. Chart info color = solid color
+1496. Chart info color = gradient
+1497. chart info color = texture
+1498. change chart info color
+1499. change chart info gradient
+1500. change chart info texture. 
+1501. enable service pack: Legacy8
+1502. disable service pack: Legacy8
+1503. enable service pack: Legacy16
+1504. disable service pack: Legacy16
+1505. enable service pack: Legacy24
+1506. disable service pack: Legacy24
+1507. enable service pack: Legacy32
+1508. disable service pack: Legacy32
+1509. enable service pack: Legacy48
+1510. disable service pack: Legacy48
+1511. enable service pack: Legacy64
+1512. disable service pack: Legacy64
+1513. enable service pack: System wizard 17
+1514. disable service pack: System wizard 17
+1515. enable service pack: auto-update
+1516. disable service pack: auto-update
+1517. enable service pack: update support
+1518. disable service pack: update support
+1519. enable service pack: window support
+1520. disable service pack: window support
+1521. enable service pack: public hub
+1522. disable service pack: public hub
+1523. enable service pack: anti-virus
+1524. disable service pack: anti-virus
+1525. enable service pack: crash recovery
+1526. disable service pack: crash recovery
+1527. enable service pack: embedding support
+1528. disable service pack: embedding support
+1529. enable service pack: user package
+1530. disable service pack: user package
+1531. enable service pack: gradient support
+1532. disable service pack: gradient support
+1533. enable service pack: highway data
+1534. disable service pack: highway data
+1535. enable service pack: system graphing
+1536. disable service pack: system graphing
+1537. enable service pack: system charting
+1538. disable service pack: system charting
+1539. enable service pack: system logging
+1540. disable service pack: system logging
+1541. enable service pack: calendar
+1542. disable service pack: calendar
+1543. enable service pack: unicode
+1544. disable service pack: unicode
+1545. enable service pack: VR management
+1546. disable service pack: VR management
+1547. enable service pack: snapshots
+1548. disable service pack: snapshots
+1549. enable service pack: media support
+1550. disable service pack: media support
+1551. enable service pack: system animating
+1552. disable service pack: system animating
+1553. enable service pack: floppy support
+1554. disable service pack: floppy support
+1555. enable service pack: screensavers
+1556. disable service pack: screensavers
+1557. enable service pack: server setup
+1558. disable service pack: server setup
+1559. enable service pack: touch magic
+1560. disable service pack: touch magic
+1561. enable service pack: system dialog
+1562. disable service pack: system dialog
+1563. enable service pack: GPI support
+1564. disable service pack: GPI support
+1565. enable service pack: 3D buttons
+1566. disable service pack: 3D buttons
+1567. enable service pack: document handling
+1568. disable service pack: document handling
+1569. enable service pack: video support
+1570. disable service pack: video support
+1571. enable service pack: Alias Aero
+1572. disable service pack: Alias Aero
+1573. enable service pack: Alias support
+1574. disable service pack: Alias support
+1575. enable service pack: Mac support
+1576. disable service pack: Mac support
+1577. enable service pack: external packaging
+1578. disable service pack: external packaging
+1579. enable service pack: pointer pic support
+1580. disable service pack: pointer pic support
+1581. enable service pack: locks
+1582. disable service pack: locks
+1583. enable service pack: system locking
+1584. disable service pack: system locking
+1585. enable service pack: 3D support
+1586. disable service pack: 3D support
+1587. enable service pack: Internal packaging
+1588. disable service pack: Internal packaging
+1589. enable service pack: Aero
+1590. disable service pack: Aero
+1591. enable service pack: Trojan tracker
+1592. disable service pack: Trojan tracker
+1593. enable service pack: playback support
+1594. disable service pack: playback support
+1595. enable service pack: cache collecting
+1596. disable service pack: cache collecting
+1597. enable service pack: sound card recognition
+1598. disable service pack: sound card recognition
+1599. enable service pack: MIDI support
+1600. disable service pack: MIDI support
+1601. enable service pack: download management
+1602. disable service pack: download management
+1603. enable service pack: icon setup
+1604. disable service pack: icon setup
+1605. enable service pack: poly packaging
+1606. disable service pack: poly packaging
+1607. enable service pack: UNIX support
+1608. disable service pack: UNIX support
+1609. enable service pack: flash support
+1610. disable service pack: flash support
+1611. enable service pack: Java support
+1612. disable service pack: Java support
+1613. enable service pack: disc reading
+1614. disable service pack: disc reading
+1615. enable service pack: USB support
+1616. disable service pack: USB support
+1617. enable service pack: SIM support
+1618. disable service pack: SIM support
+1619. enable service pack: Feedback
+1620. disable service pack: Feedback
+1621. enable service pack: WAV executing
+1622. disable service pack: WAV executing
+1623. enable service pack: Browser connection
+1624. disable service pack: Browser connection
+1625. enable service pack: Calculator novice
+1626. disable service pack: Calculator novice
+1627. enable service pack: video capture
+1628. disable service pack: video capture
+1629. enable service pack: audio capture
+1630. disable service pack: audio capture
+1631. enable service pack: notepad
+1632. disable service pack: notepad
+1633. enable service pack: notebook
+1634. disable service pack: notebook
+1635. enable service pack: gadgetry
+1636. disable service pack: gadgetry
+1637. enable service pack: startup repair
+1638. disable service pack: startup repair
+1639. enable service pack: search
+1640. disable service pack: search
+1641. enable service pack: layering
+1642. disable service pack: layering
+1643. enable service pack: RGB support
+1644. disable service pack: RGB support
+1645. enable service pack: LAB color support
+1646. disable service pack: LAB color support
+1647. enable service pack: link support
+1648. disable service pack: link support
+1649. enable service pack: phone system
+1650. disable service pack: phone system
+1651. enable service pack: hot plugging
+1652. disable service pack: hot plugging
+1653. enable service pack: UEFI support
+1654. disable service pack: UEFI support
+1655. enable service pack: EFI support
+1656. disable service pack: EFI support
+1657. enable service pack: QR support
+1658. disable service pack: QR support
+1659. enable QR code at startup
+1660. disable QR code at startup
+1661. enable captcha at startup
+1662. disable captcha at startup
+1663. enable service pack: captcha gallery
+1664. disable service pack: captcha gallery
+1665. enable service pack: captcha support
+1666. disable service pack: captcha support
+1667. enable service pack: rich text support
+1668. disable service pack: rich text support
+1669. enable service pack: emoji support
+1670. disable service pack: emoji support
+1671. enable service pack: bitmap support
+1672. disable service pack: bitmap support
+1673. enable service pack: GIF support
+1674. disable service pack: GIF support
+1675. enable service pack: SVG support
+1676. disable service pack: SVG support
+1677. enable service pack: charge support
+1678. disable service pack: charge support
+1679. enable service pack: spellcheck
+1680. disable service pack: spellcheck
+1681. enable service pack: auto-correct
+1682. disable service pack: auto-correct
+1683. enable service pack: VPN 
+1684. disable service pack: VPN
+1685. enable service pack: JPG/JPEG/JPE/JFIF support
+1686. disable service pack: JPG/JPEG/JPE/JFIF support
+1687. enable service pack: tif/tiff support
+1688. disable service pack: tif/tiff support
+1689. enable service pack: pif support
+1690. disable service pack: pif support
+1691. enable service pack: legacy console
+1692. disable service pack: legacy console
+1693. enable service pack: terminal
+1694. disable service pack: terminal
+1695. enable service pack: registry customizations
+1696. disable service pack: registry customizations
+1697. enable service pack: transparent objects/elements
+1698. disable service pack: transparent objects/elements
+1699. enable service pack: qwerty onscreen
+1700. disable service pack: qwerty onscreen
+1701. enable service pack: ABC onscreen
+1702. disable service pack: ABC onscreen
+1703. enable service pack: system audio
+1704. disable service pack: system audio
+1705. enable service pack: help and support
+1706. disable service pack: help and support
+1707. enable service pack: Favicon handler
+1708. disable service pack: Favicon handler
+1709. enable service pack: python support
+1710. disable service pack: python support
+1711. enable service pack: DMG support
+1712. disable service pack: DMG support
+1713. enable service pack: radio FM
+1714. disable service pack: radio FM
+1715. enable service pack: radio AM
+1716. disable service pack: radio AM
+1717. enable service pack: morse console
+1718. disable service pack: morse console
+1719. enable service pack: PSD support
+1720. disable service pack: PSD support
+1721. enable service pack: PXR support
+1722. disable service pack: PXR support
+1723. enable service pack: WMF support
+1724. disable service pack: WMF support
+1725. enable service pack: WMMP support
+1726. disable service pack: WMMP support
+1727. enable service pack: MP4 support
+1728. disable service pack: MP4 support
+1729. enable service pack: MP3 support
+1730. disable service pack: MP3 support
+1731. enable service pack: AVI support
+1732. disable service pack: AVI support
+1733. enable service pack: XPS support
+1734. disable service pack: XPS support
+1735. enable service pack: PDF support
+1736. disable service pack: PDF support
+1737. enable service pack: HDMI support
+1738. disable service pack: HDMI support
+1739. enable service pack: projector support
+1740. disable service pack: project support
+1741. enable service pack: printer support
+1742. disable service pack: printer support
+1743. enable service pack: 3D printer support
+1744. disable service pack: 3D printer support
+1745. enable service pack: English support
+1746. disable service pack: English support
+1747. enable service pack: Spanish support
+1748. disable service pack: Spanish support
+1749. enable service pack: French support
+1750. disable service pack: French support
+1751. enable service pack: Arabic support
+1752. disable service pack: Arabic support
+1753. enable service pack: German support
+1754. disable service pack: German support
+1755. enable service pack: Indonesian support
+1756. disable service pack: Indonesian support
+1757. enable service pack: traditional chinese support
+1758. disable service pack: tradition chinese support
+1759. enable service pack: simplified chinese support
+1760. disable service pack: simplified chinese support
+1761. enable service pack: Korean support
+1762. disable service pack: Korean support
+1763. enable service pack: japanese support
+1764. disable service pack: japanese support
+1765. enable service pack: Portugese support
+1766. disable service pack: Portugese support
+1767. enable service pack: Zulu support
+1768. disable service pack: Zulu support
+1769. enable service pack: quarantine
+1770. disable service pack: quarantine
+1771. enable service pack: screentip support
+1772. disable service pack: screentip support
+1773. enable service pack: search support
+1774. disable service pack: search support
+1775. enable service pack: HTML support
+1776. disable service pack: HTML support
+1777. enable service pack: contacts
+1778. disable service pack: contacts
+1779. enable service pack: driveway 
+1780. disable service pack: driveway
+1781. enable service pack: multi-task manager
+1782. disable service pack: multi-task manager
+1783. enable service pack: log viewer
+1784. disable service pack: log viewer
+1785. enable service pack: GUI shell
+1786. disable service pack: GUI shell
+1787. enable lumberjack - logs progress
+1788. disable lumberjack - stops logging progress
+1789. enable trashman - recycling and deleting
+1790. disable trashman - recycling and deleting
+1791. enable pixelus font
+1792. disable pixelus font
+1793. enable roboto font
+1794. disable roboto font
+1795. enable comic sans MS font
+1796. disable comic sans MS font
+1797. enable Arial font
+1798. disable Arial font
+1799. enable tahoma font
+1800. disable tahoma font
+1801. enable wingdings font
+1802. disable wingdings font
+1803. enable calibri (body) font
+1804. disable calibri (body) font
+1805. enable cursive
+1806. disable cursive
+1807. enable gothic font
+1808. disable gothic font
+1809. enable century gothic font
+1810. disable century gothic font
+1811. enable squiggly font
+1812. disable squiggly font
+1813. enable solid digital font
+1814. disable solid digital font
+1815. enable tahoma gold font
+1816. disable tahoma gold font
+1817. enable courier font
+1818. disable courier font
+1819. enable 3D font
+1820. disable 3D font
+1821. show total PC usage time
+1822. hide total PC usage time
+1823. enable text shadowing
+1824. disable text shadowing
+1825. reset font shadowing appearance
+1826. edit font shading appearance
+1827. enable animated font
+1828. disable animated font
+1829. reset animated font settings
+1830. change animated font settings
+1831. resize desktop limit (max: 300,000x300,000 minimum: 32000x32000)
+1832. explore 3D desktop
+1833. stop exploring 3D desktop
+1834. reset 3D desktop size
+1835. add wall to 3d desktop
+1836. remove wall from 3d desktop
+1837. resize 3D desktop wall size
+1838. reset 3D desktop wall size
+1839. export 3D desktop layout
+1840. import 3D desktop layout
+1841. set 3D desktop explore render distance (1-1000)
+1842. reset 3D desktop explore render distance
+1843. change 3D wall texture
+1844. reset 3D wall texture
+1845. add clock to 3D desktop
+1846. Remove clock from 3D desktop
+1847. Edit clock time zone
+1848. Edit clock type
+1849. Edit clock texture
+1850. enable lighting for 3D desktop
+1851. disable lighting for 3D desktop
+1852. change 3D desktop brightness (-100 to 100)
+1853. reset 3D desktop brightness
+1854. add torch to 3D desktop
+1855. remove torch from 3D desktop
+1856. customize torch
+1857. add lamp to 3D desktop
+1858. remove lamp from 3D desktop
+1859. customize lamp for 3D desktop
+1860. resize clock size for 3D desktop
+1861. reset clock size for 3D desktop
+1862. resize lamp size for 3D desktop
+1863. reset lamp size for 3D desktop
+1864. resize torch size for 3D desktop
+1865. reset torch size for 3D desktop
+1866. change lamp brightness for 3D desktop
+1867. reset lamp brightness for 3D desktop
+1868. change lamp light range for 3D desktop (1-200)
+1869. reset lamp light range for 3D desktop (5)
+1870. change torch light range for 3D desktop (1-200)
+1871. reset torch light range for 3D desktop (3)
+1872. add table to 3D desktop
+1873. edit table type
+1874. edit table texture
+1875. resize table for 3D desktop
+1876. reset table size for 3D desktop
+1877. add barrel to 3D desktop
+1878. remove barrel from 3D desktop
+1879. edit barrel type
+1880. edit barrel texture
+1881. resize barrel size for 3D desktop
+1882. reset barrel size for 3D desktop
+1883. add fence to 3D desktop
+1884. remove fence from 3D desktop
+1885. edit fence type
+1886. edit fence texture
+1887. resize fence for 3D desktop
+1888. reset fence size for 3D desktop
+1889. show X, Y, Z for 3D desktop (each one can be separate)
+1890. hide X, Y, Z for 3D desktop (each one can be separate)
+1891. enable 3D desktop inventory
+1892. disable 3D desktop inventory
+1893. change limits for 3D desktop inventory
+1894. add flashlight to 3D desktop inventory
+1895. remove flashlight to 3D desktop inventory
+1896. start all users with flashlight in inventory
+1897. don't start all users with flashlight in inventory
+1898. add axe to 3D desktop inventory
+1899. remove axe to 3D desktop inventory
+1900. start all users with axe in inventory
+1901. don't start all users with axe in inventory
+1902. edit axe texture
+1903. reset axe texture
+1904. resize axe size
+1905. reset axe size
+1906. edit flashlight texture
+1907. reset flashlight texture
+1908. resize flashlight size
+1909. reset flashlight size
+1910. allow users to break this item (selection)
+1911. don't allow users to break this item (selection)
+1912. this item will respawn (selection)
+1913. this item won't respawn (selection)
+1914. this item will respawn after **x** seconds (selection)
+1915. add knife to 3D desktop inventory
+1916. remove knife from 3D desktop inventory
+1917. start all users with knife in inventory
+1918. don't start all users with knife in inventory
+1919. edit knife texture
+1920. reset knife texture
+1921. resize knife size
+1922. reset knife size
+1923. change axe damage rules
+1924. allow axe to do damage
+1925. don't allow axe to do damage
+1926. change flashlight damage rules
+1927. allow flashlight to do damage
+1928. don't allow flashlight to do damage
+1929. change knife damage rules
+1930. allow knife to do damage
+1931. don't allow knife to do damage
+1932. allow players to respawn
+1933. don't allow players to respawn
+1934. respawn limit [x] or [none]
+1935. respawn duration [x] 
+1936. knife is throwable
+1937. knife is not throwable
+1938. flashlight is throwable
+1939. flashlight is not throwable
+1940. axe is throwable
+1941. axe is not throwable
+1942. add pistol to 3D desktop inventory
+1943. remove pistol from 3D desktop inventory
+1944. change pistol texture
+1945. reset pistol texture
+1946. resize pistol size
+1947. reset pistol size
+1948. change pistol damage rules
+1949. allow pistol to do damage
+1950. don't allow pistol to do damage
+1951. pistol is throwable
+1952. pistol is not throwable
+1953. let players start with pistol in inventory
+1954. do not let players start with pistol in inventory
+1955. add chainsaw to 3D desktop inventory
+1956. remove chainsaw from 3D desktop inventory
+1957. change chainsaw texture
+1958. reset chainsaw texture
+1959. resize chainsaw size
+1960. reset chainsaw size
+1961. change chainsaw damage rules
+1962. allow chainsaw to do damage
+1963. don't allow chainsaw to do damage
+1964. chainsaw is throwable
+1965. chainsaw is not throwable
+1966. let players start with chainsaw in inventory
+1957. do not let players start with chainsaw in inventory
+1958. enable flashlight animations
+1959. disable flashlight animations
+1960. edit flashlight animations
+1961. enable axe animations
+1962. disable axe animations
+1963. edit axe animations
+1964. enable knife animations
+1965. disable knife animations
+1966. change knife animations
+1967. enable pistol animations
+1968. disable pistol animations
+1969. change pistol animations
+1970. enable chainsaw animations
+1971. disable chainsaw animations
+1972. change chainsaw animations
+1973. enable flashlight sounds
+1984. disable flashlight sounds
+1985. edit flashlight sounds
+1986. enable axe sounds
+1987. disable axe sounds
+1988. edit axe sounds
+1989. enable knife sounds
+1990. disable knife sounds
+1991. change knife sounds
+1992. enable pistol sounds
+1993. disable pistol sounds
+1994. change pistol sounds
+1995. enable chainsaw sounds
+1996. disable chainsaw sounds
+1997. change chainsaw sounds
+1998. enable unlimited bullets
+1999. disable unlimited bullets
+2000. add spray paint to 3D desktop inventory
+2001. remove spray paint from 3D desktop inventory
+2002. change spray paint color for 3D desktop inventory
+2003. spray paint despawn timer [x]
+2004. reset spray paint color for 3D desktop inventory (Random: White, or black)
+2005. add spray paint to user inventory at startup
+2006. don't add spray paint to user inventory at startup
+2007. enable unlimited spray paint
+2008. disable unlimited spray paint
+2009. edit spray paint texture
+2010. enable spray paint animations
+2011. disable spray paint animations
+2012. change spray paint animations
+2013. enable spray paint sound
+2014. disable spray paint sound
+2015. change spray paint sound
+2016. allow sounds for all users [selection]
+2017. don't allow sounds for all users [selection]
+2018. spray paint is throwable
+2019. spray paint is not throwable
+2020. change spray paint damage rules
+2021. enable spray paint damage
+2022. disable spray paint damage
+2023. add shotgun to 3D desktop inventory
+2024. remove shotgun from 3D desktop inventory
+2026. add shotgun to user inventory at startup
+2027. don't add shotgun to user inventory at startup
+2028. enable unlimited bullets
+2029. disable unlimited bullets
+2030. edit shotgun texture
+2031. enable shotgun animations
+2032. disable shotgun animations
+2033. change shotgun animations
+2034. enable shotgun sound
+2035. disable shotgun sound
+2036. change shotgun sound
+2037. allow sounds for all users [selection]
+2038. don't allow sounds for all users [selection]
+2039. shotgun is throwable
+2040. shotgun is not throwable
+2041. change shotgun damage rules
+2042. enable shotgun damage
+2042. disable shotgun damage
+2043. add rifle to 3D desktop inventory
+2044. remove rifle from 3D desktop inventory
+2045. add rifle to user inventory at startup
+2046. don't add rifle to user inventory at startup
+2047. enable unlimited bullets
+2048. disable unlimited bullets
+2049. edit rifle texture
+2050. enable rifle animations
+2051. disable rifle animations
+2052. change rifle animations
+2053. enable rifle sound
+2054. disable rifle sound
+2055. change rifle sound
+2056. allow sounds for all users [selection]
+2057. don't allow sounds for all users [selection]
+2058. rifle is throwable
+2059. rifle is not throwable
+2060. change rifle damage rules
+2061. enable rifle damage
+2062. disable rifle damage
+2063. add uzi to 3D desktop inventory
+2064. remove uzi from 3D desktop inventory
+2065. add uzi to user inventory at startup
+2066. don't add uzi to user inventory at startup
+2067. enable unlimited bullets
+2068. disable unlimited bullets
+2069. edit uzi texture
+2070. enable uzi animations
+2071. disable uzi animations
+2072. change uzi animations
+2073. enable uzi sound
+2074. disable uzi sound
+2075. change uzi sound
+2076. allow sounds for all users [selection]
+2077. don't allow sounds for all users [selection]
+2078. uzi is throwable
+2079. uzi is not throwable
+2080. change uzi damage rules
+2081. enable uzi damage
+2082. disable uzi damage
+2083. add plasma gun to 3D desktop inventory
+2084. remove plasma gun from 3D desktop inventory
+2085. add plasma gun to user inventory at startup
+2086. don't add plasma gun to user inventory at startup
+2087. enable unlimited bullets
+2088. disable unlimited bullets
+2089. edit plasma gun texture
+2090. enable plasma gun animations
+2091. disable plasma gun animations
+2092. change plasma gun animations
+2093. enable plasma gun sound
+2094. disable plasma gun sound
+2095. change plasma gun sound
+2096. allow sounds for all users [selection]
+2097. don't allow sounds for all users [selection]
+2098. plasma gun is throwable
+2099. plasma gun is not throwable
+2100. plasma gun damage rules
+2101. enable plasma gun damage
+2102. disable plasma gun damage
+2103. add grenade to 3D desktop inventory
+2104. remove grenade from 3D desktop inventory
+2105. add grenade to user inventory at startup
+2106. don't add grenade to user inventory at startup
+2107. enable unlimited grenades
+2108. disable unlimited grenades
+2109. edit grenade texture
+2110. enable grenade animations
+2111. disable grenade animations
+2112. edit grenade animations
+2113. enable grenade sounds
+2114. disable grenade sounds
+2115. change grenade sounds
+2116. grenade is throwable
+2117. grenade is not throwable
+2118. grenade damage rules
+2119. enable grenade damage
+2120. disable grenade damage
+2121. add water balloon to 3D desktop inventory
+2122. remove water balloon from 3D desktop inventory
+2123. reset water balloon color
+2124. change water balloon color
+2125. add water balloon to users inventory at startup
+2126. don't add water balloon to users inventory at startup
+2127. enable unlimited water balloons
+2128. disable unlimited water balloons
+2129. edit water balloon texture
+2130. enable water balloon animation
+2131. disable water balloon animation
+2132. change water balloon animation
+2133. enable water balloon sounds
+2134. disable water balloon sounds
+2135. change water balloon sounds
+2136. water balloon is throwable
+2137. water balloon is not throwable
+2138. water balloon damage rules
+2139. enable water balloon damage
+2140. disable water balloon damage
+2141. add text to water balloon
+2142. edit text on water balloon
+2143. add sword to 3D desktop inventory
+2144. remove sword from 3D desktop inventory
+2145. change sword color
+2146. change sword texture
+2147. add sword to users inventory at startup
+2148. remove sword from users inventory at startup
+2149. enable unlimited swords
+2150. disable unlimited swords
+2151. enable sword animations
+2152. disable sword animations
+2153. edit sword animations
+2154. enable sword sounds
+2155. disable sword sounds
+2156. change sword sounds
+2157. change sword damage rules
+2158. enable sword damage
+2159. disable sword damage
+2160. add laser gun to 3D desktop inventory
+2161. remove laser gun from 3D desktop inventory
+2162. change laser gun texture
+2163. enable unlimited ammo
+2164. disable unlimited ammo
+2165. add laser gun to user inventory at startup
+2166. don't add laser gun to users inventory at startup
+2167. laser gun is throwable
+2168. laser gun is not throwable
+2169. enable laser gun animations
+2170. disable laser gun animations
+2171. change laser gun animations
+2172. enable laser gun sounds
+2173. disable laser gun sounds
+2174. change laser gun sounds
+2175. change laser gun damage rules
+2176. enable laser gun damage
+2177. disable laser gun damage
+2178. add banana to 3D desktop inventory
+2179. remove banana from 3D desktop inventory
+2180. change banana texture
+2181. add banana to user inventory at startup
+2182. don't add banana to users inventory at startup
+2183. banana is throwable
+2184. banana is not throwable
+2185. enable banana animations
+2186. disable banana animations
+2187. change banana animations
+2188. enable banana sounds
+2189. disable banana sounds
+2190. change banana sounds
+2191. change banana damage rules
+2192. enable banana damage
+2193. disable banana damage
+2194. add candle to 3D desktop inventory
+2195. remove candle from 3D desktop inventory
+2196. change candle texture
+2197. add candle to user inventory at startup
+2198. don't add candle to users inventory at startup
+2199. candle is throwable
+2200. candle is not throwable
+2201. enable candle animations
+2202. disable candle animations
+2203. change candle animations
+2204. enable candle sounds
+2205. disable candle sounds
+2206. change candle sounds
+2207. change candle damage rules
+2208. enable candle damage
+2209. disable candle damage
+2210. add lighter to 3D desktop inventory
+2211. remove lighter from 3D desktop inventory
+2212. change lighter texture
+2213. add lighter to user inventory at startup
+2214. don't add lighter to users inventory at startup
+2215. lighter is throwable
+2216. lighter is not throwable
+2217. enable lighter animations
+2218. disable lighter animations
+2219. change lighter animations
+2220. enable lighter sounds
+2221. disable lighter sounds
+2222. change lighter sounds
+2223. change lighter damage rules
+2224. enable lighter damage
+2225. disable lighter damage
+2226. add bowling ball to 3D desktop inventory
+2227. remove bowling ball from 3D desktop inventory
+2228. change bowling ball texture
+2229. add bowling ball to user inventory at startup
+2230. don't add bowling ball to users inventory at startup
+2231. bowling ball is throwable
+2232. bowling ball is not throwable
+2233. enable bowling ball animations
+2234. disable bowling ball animations
+2235. change bowling ball animations
+2236. enable bowling ball sounds
+2237. disable bowling ball sounds
+2238. change bowling ball sounds
+2239. change bowling ball damage rules
+2240. enable bowling ball damage
+2241. disable bowling ball damage
+2242. add dart to 3D desktop inventory
+2243. remove dart from 3D desktop inventory
+2244. change dart texture
+2245. add dart to user inventory at startup
+2246. don't add dart to users inventory at startup
+2247. dart is throwable
+2248. dart is not throwable
+2249. enable dart animations
+2250. disable dart animations
+2251. change dart animations
+2252. enable dart sounds
+2253. disable dart sounds
+2254. change dart sounds
+2255. change dart damage rules
+2256. enable dart damage
+2257. disable dart damage
+2258. add bleach to 3D desktop inventory
+2259. remove bleach from 3D desktop inventory
+2260. change bleach texture
+2261. add bleach to user inventory at startup
+2262. don't add bleach to users inventory at startup
+2263. bleach is throwable
+2264. bleach is not throwable
+2265. enable bleach animations
+2266. disable bleach animations
+2267. change bleach animations
+2268. enable bleach sounds
+2269. disable bleach sounds
+2270. change bleach sounds
+2271. change bleach damage rules
+2272. enable bleach damage
+2273. disable bleach damage
+2274. add shield to 3D desktop inventory
+2275. remove shield from 3D desktop inventory
+2276. change shield texture
+2277. add shield to user inventory at startup
+2278. don't add shield to users inventory at startup
+2279. shield is throwable
+2280. shield is not throwable
+2281. enable shield animations
+2282. disable shield animations
+2283. change shield animations
+2284. enable shield sounds
+2285. disable shield sounds
+2286. change shield sounds
+2287. change shield damage rules
+2288. enable shield damage
+2289. disable shield damage
+2290. add light saber to 3D desktop inventory
+2291. remove light saber from 3D desktop inventory
+2292. change light saber texture
+2293. add light saber to user inventory at startup
+2294. don't add light saber to users inventory at startup
+2295. light saber is throwable
+2296. light saber is not throwable
+2297. enable light saber animations
+2298. disable light saber animations
+2299. change light saber animations
+2300. enable light saber sounds
+2301. disable light saber sounds
+2302. change light saber sounds
+2303. change light saber damage rules
+2304. enable light saber damage
+2305. disable light saber damage
+2306. add wooden baseball bat to 3D desktop inventory
+2307. remove wooden baseball bat from 3D desktop inventory
+2308. change wooden baseball bat texture
+2309. add wooden baseball bat to user inventory at startup
+2310. don't add wooden baseball bat to users inventory at startup
+2311. wooden baseball bat is throwable
+2312. wooden baseball bat is not throwable
+2313. enable wooden baseball bat animations
+2314. disable wooden baseball bat animations
+2315. change wooden baseball bat animations
+2316. enable wooden baseball bat sounds
+2317. disable wooden baseball bat sounds
+2318. change wooden baseball bat sounds
+2319. change wooden baseball bat damage rules
+2320. enable wooden baseball bat damage
+2321. disable wooden baseball bat damage
+2322. add metal baseball bat to 3D desktop inventory
+2323. remove metal baseball bat from 3D desktop inventory
+2324. change metal baseball bat texture
+2325. add metal baseball bat to user inventory at startup
+2326. don't add metal baseball bat to users inventory at startup
+2327. metal baseball bat is throwable
+2328. metal baseball bat is not throwable
+2329. enable metal baseball bat animations
+2330. disable metal baseball bat animations
+2331. change metal baseball bat animations
+2332. enable metal baseball bat sounds
+2333. disable metal baseball bat sounds
+2334. change metal baseball bat sounds
+2335. change metal baseball bat damage rules
+2336. enable metal baseball bat damage
+2337. disable metal baseball bat damage
+2338. add checkpoint to 3D desktop
+2339. remove checkpoint from 3D desktop
+2340. make checkpoint visible
+2341. make checkpoint invisible
+2342. resize checkpoint size
+2343. reset checkpoint size
+2344. add hoverboard to 3D desktop inventory
+2345. remove hoverboard from 3D desktop inventory
+2346. change hoverboard texture
+2347. add hoverboard to user inventory at startup
+2348. don't add hoverboard to users inventory at startup
+2349. hoverboard is throwable
+2350. hoverboard is not throwable
+2351. enable hoverboard animations
+2352. disable hoverboard animations
+2353. change hoverboard animations
+2354. enable hoverboard sounds
+2355. disable hoverboard sounds
+2356. change hoverboard sounds
+2357. change hoverboard damage rules
+2358. enable hoverboard damage
+2359. disable hoverboard damage
+2360. add spike to 3D desktop inventory
+2361. remove spike from 3D desktop inventory
+2362. change spike texture
+2363. add spike to user inventory at startup
+2364. don't add spike to users inventory at startup
+2365. spike is throwable
+2366. spike is not throwable
+2367. enable spike animations
+2368. disable spike animations
+2369. change spike animations
+2370. enable spike sounds
+2371. disable spike sounds
+2372. change spike sounds
+2373. change spike damage rules
+2374. enable spike damage
+2375. disable spike damage
+2376. add spear to 3D desktop inventory
+2377. remove spear from 3D desktop inventory
+2378. change spear texture
+2379. add spear to user inventory at startup
+2380. don't add spear to users inventory at startup
+2381. spear is throwable
+2382. spear is not throwable
+2383. enable spear animations
+2384. disable spear animations
+2385. change spear animations
+2386. enable spear sounds
+2387. disable spear sounds
+2388. change spear sounds
+2389. change spear damage rules
+2390. enable spear damage
+2391. disable spear damage
+2392. add mace to 3D desktop inventory
+2393. remove mace from 3D desktop inventory
+2394. change mace texture
+2395. add mace to user inventory at startup
+2396. don't add mace to users inventory at startup
+2397. mace is throwable
+2398. mace is not throwable
+2399. enable mace animations
+2400. disable mace animations
+2401. change mace animations
+2402. enable mace sounds
+2403. disable mace sounds
+2404. change mace sounds
+2405. change mace damage rules
+2406. enable mace damage
+2407. disable mace damage
+2408. add icicle to 3D desktop inventory
+2409. remove icicle from 3D desktop inventory
+2410. change icicle texture
+2411. add icicle to user inventory at startup
+2412. don't add icicle to users inventory at startup
+2413. icicle is throwable
+2414. icicle is not throwable
+2415. enable icicle animations
+2416. disable icicle animations
+2417. change icicle animations
+2418. enable icicle sounds
+2419. disable icicle sounds
+2420. change icicle sounds
+2421. change icicle damage rules
+2422. enable icicle damage
+2423. disable icicle damage
+2424. add bicyle to 3D desktop inventory
+2425. remove bicycle from 3D desktop inventory
+2426. change bicycle texture
+2427. add bicycle to user inventory at startup
+2428. don't add bicycle to users inventory at startup
+2429. bicycle is throwable
+2430. bicycle is not throwable
+2431. enable bicycle animations
+2432. disable bicycle animations
+2433. change bicycle animations
+2434. enable bicycle sounds
+2435. disable bicycle sounds
+2436. change bicycle sounds
+2437. change bicycle damage rules
+2438. enable bicycle damage
+2439. disable bicycle damage
+2440. add unicycle to 3D desktop inventory
+2441. remove unicycle from 3D desktop inventory
+2442. change unicycle texture
+2443. add unicycle to user inventory at startup
+2444. don't add unicycle to users inventory at startup
+2445. unicycle is throwable
+2446. unicycle is not throwable
+2447. enable unicycle animations
+2448. disable unicycle animations
+2449. change unicycle animations
+2450. enable unicycle sounds
+2451. disable unicycle sounds
+2452. change unicycle sounds
+2453. change unicycle damage rules
+2454. enable unicycle damage
+2455. disable unicycle damage
+2456. add training wheel to bicycle
+2457. remove training wheel from bicycle
+2458. 3D desktop mode: Build
+2459. 3D desktop mode: Survival
+2460. 3D desktop mode: level
+2461. 3D desktop mode: file system
+2462. add wooden bucket to 3D desktop inventory
+2463. remove wooden bucket from 3D desktop inventory
+2464. change wooden bucket texture
+2465. add wooden bucket to user inventory at startup
+2466. don't add wooden bucket to users inventory at startup
+2467. wooden bucket is throwable
+2468. wooden bucket is not throwable
+2469. enable wooden bucket animations
+2470. disable wooden bucket animations
+2471. change wooden bucket animations
+2472. enable wooden bucket sounds
+2473. disable wooden bucket sounds
+2474. change wooden bucket sounds
+2475. change wooden bucket damage rules
+2476. enable wooden bucket damage
+2477. disable wooden bucket damage
+2478. add metal bucket to 3D desktop inventory
+2479. remove metal bucket from 3D desktop inventory
+2480. change metal bucket texture
+2481. add metal bucket to user inventory at startup
+2482. don't add metal bucket to users inventory at startup
+2483. metal bucket is throwable
+2484. metal bucket is not throwable
+2485. enable metal bucket animations
+2486. disable metal bucket animations
+2487. change metal bucket animations
+2488. enable metal bucket sounds
+2489. disable metal bucket sounds
+2490. change metal bucket sounds
+2491. change metal bucket damage rules
+2492. enable metal bucket damage
+2493. disable metal bucket damage
+2494. add lava to 3D desktop inventory
+2495. remove lava from 3D desktop inventory
+2496. change lava texture
+2497. add lava to user inventory at startup
+2498. don't add lava to users inventory at startup
+2499. lava is throwable
+2500. lava is not throwable
+2501. enable lava animations
+2502. disable lava animations
+2503. change lava animations
+2504. enable lava sounds
+2505. disable lava sounds
+2506. change lava sounds
+2507. change lava damage rules
+2508. enable lava damage
+2509. disable lava damage
+2510. add pole to 3D desktop inventory
+2511. remove pole from 3D desktop inventory
+2512. change pole texture
+2513. add pole to user inventory at startup
+2514. don't add pole to users inventory at startup
+2515. pole is throwable
+2516. pole is not throwable
+2517. enable pole animations
+2518. disable pole animations
+2519. change pole animations
+2520. enable pole sounds
+2521. disable pole sounds
+2522. change pole sounds
+2523. change pole damage rules
+2524. enable pole damage
+2525. disable pole damage
+2526. add egg to 3D desktop inventory
+2527. remove egg from 3D desktop inventory
+2528. change egg texture
+2529. add egg to user inventory at startup
+2530. don't add egg to users inventory at startup
+2531. egg is throwable
+2532. egg is not throwable
+2533. enable egg animations
+2534. disable egg animations
+2535. change egg animations
+2536. enable egg sounds
+2537. disable egg sounds
+2538. change egg sounds
+2539. change egg damage rules
+2540. enable egg damage
+2541. disable egg damage
+2542. add cannon to 3D desktop inventory
+2543. remove cannon from 3D desktop inventory
+2544. change cannon texture
+2545. add cannon to user inventory at startup
+2546. don't add cannon to users inventory at startup
+2547. cannon is throwable
+2548. cannon is not throwable
+2549. enable cannon animations
+2550. disable cannon animations
+2551. change cannon animations
+2552. enable cannon sounds
+2553. disable cannon sounds
+2554. change cannon sounds
+2555. change cannon damage rules
+2556. enable cannon damage
+2557. disable cannon damage
+2558. add ramp to 3D desktop inventory
+2559. remove ramp from 3D desktop inventory
+2560. change ramp texture
+2561. add ramp to user inventory at startup
+2562. don't add ramp to users inventory at startup
+2563. ramp is throwable
+2564. ramp is not throwable
+2565. enable ramp animations
+2566. disable ramp animations
+2567. change ramp animations
+2568. enable ramp sounds
+2569. disable ramp sounds
+2570. change ramp sounds
+2571. change ramp damage rules
+2572. enable ramp damage
+2573. disable ramp damage
+2574. add staircase to 3D desktop inventory
+2575. remove staircase from 3D desktop inventory
+2576. change staircase texture
+2577. add staircase to user inventory at startup
+2578. don't add staircase to users inventory at startup
+2579. staircase is throwable
+2580. staircase is not throwable
+2581. enable staircase animations
+2582. disable staircase animations
+2583. change staircase animations
+2584. enable staircase sounds
+2585. disable staircase sounds
+2586. change staircase sounds
+2587. change staircase damage rules
+2588. enable staircase damage
+2589. disable staircase damage
+2590. add sign to 3D desktop inventory
+2591. remove sign from 3D desktop inventory
+2592. change sign texture
+2593. add sign to user inventory at startup
+2594. don't add sign to users inventory at startup
+2595. sign is throwable
+2596. sign is not throwable
+2597. enable sign animations
+2598. disable sign animations
+2599. change sign animations
+2600. enable sign sounds
+2601. disable sign sounds
+2602. change sign sounds
+2603. change sign damage rules
+2604. enable sign damage
+2605. disable sign damage
+2606. rename sign
+2607. sign type: wooden
+2608. sign type: stone
+2609. sign type: metal
+2610. sign type: holographic
+2611. sign type: plastic
+2612. add flamethrower to 3D desktop inventory
+2613. remove flamethrower from 3D desktop inventory
+2614. change flamethrower texture
+2615. add flamethrower to user inventory at startup
+2616. don't add flamethrower to users inventory at startup
+2617. flamethrower is throwable
+2618. flamethrower is not throwable
+2619. enable flamethrower animations
+2620. disable flamethrower animations
+2621. change flamethrower animations
+2622. enable flamethrower sounds
+2623. disable flamethrower sounds
+2624. change flamethrower sounds
+2625. change flamethrower damage rules
+2626. enable flamethrower damage
+2627. disable flamethrower damage
+2628. flame color = orange
+2629. flame color = red
+2630. flame color = yellow
+2631. flame color = green
+2632. flame color = blue
+2633. flame color = purple
+2634. flame color = pink
+2635. add toilet to 3D desktop inventory
+2636. remove toilet from 3D desktop inventory
+2637. change toilet texture
+2638. add toilet to user inventory at startup
+2639. don't add toilet to users inventory at startup
+2640. toilet is throwable
+2641. toilet is not throwable
+2642. enable toilet animations
+2643. disable toilet animations
+2644. change toilet animations
+2645. enable toilet sounds
+2646. disable toilet sounds
+2647. change toilet sounds
+2648. change toilet damage rules
+2649. enable toilet damage
+2650. disable toilet damage
+2651. add grass platform to 3D desktop inventory
+2652. remove grass platform from 3D desktop inventory
+2653. change grass platform texture
+2654. add grass platform to user inventory at startup
+2655. don't add grass platform to users inventory at startup
+2656. grass platform is throwable
+2657. grass platform is not throwable
+2658. enable grass platform animations
+2659. disable grass platform animations
+2660. change grass platform animations
+2661. enable grass platform sounds
+2662. disable grass platform sounds
+2663. change grass platform sounds
+2664. change grass platform damage rules
+2665. enable grass platform damage
+2666. disable grass platform damage
+2667. grass type = spring
+2668. grass type = summer
+2669. grass type = autumn
+2670. grass type = winter
+2671. grass type = dead
+2672. grass is artificial
+2673. grass is not artificial
+2674. add pine tree to 3D desktop inventory
+2675. remove pine tree from 3D desktop inventory
+2676. change pine tree texture
+2677. add pine tree to user inventory at startup
+2678. don't add pine tree to users inventory at startup
+2679. pine tree is throwable
+2680. pine tree is not throwable
+2681. enable pine tree animations
+2682. disable pine tree animations
+2683. change pine tree animations
+2684. enable pine tree sounds
+2685. disable pine tree sounds
+2686. change pine tree sounds
+2687. change pine tree damage rules
+2688. enable pine tree damage
+2689. disable pine tree damage
+2690. pine tree mode = spring
+2691. pine tree mode = summer
+2692. pine tree mode = autumn
+2693. pine tree mode = winter
+2694. pine tree mode = dead
+2695. pine tree mode = christmas
+2696. pine tree mode = plastic
+2697. pine tree mode = petrified
+2698. pine tree mode = sapling
+2699. pine tree mode = grown
+2700. add lawn mower to 3D desktop inventory
+2701. remove lawn mower from 3D desktop inventory
+2702. change lawn mower texture
+2703. add lawn mower to user inventory at startup
+2704. don't add lawn mower to users inventory at startup
+2705. lawn mower is throwable
+2706. lawn mower is not throwable
+2707. enable lawn mower animations
+2708. disable lawn mower animations
+2709. change lawn mower animations
+2710. enable lawn mower sounds
+2711. disable lawn mower sounds
+2712. change lawn mower sounds
+2713. change lawn mower damage rules
+2714. enable lawn mower damage
+2715. disable lawn mower damage
+2716. add road to 3D desktop inventory
+2717. remove road from 3D desktop inventory
+2718. change road texture
+2719. add road to user inventory at startup
+2720. don't add road to users inventory at startup
+2721. road is throwable
+2722. road is not throwable
+2723. enable road animations
+2724. disable road animations
+2725. change road animations
+2726. enable road sounds
+2727. disable road sounds
+2728. change road sounds
+2729. change road damage rules
+2730. enable road damage
+2731. disable road damage
+2732. road type = dirt
+2733. road type = stone
+2734. road type = concrete
+2735. road type = brick
+2736. road type = metal
+2737. road type = tile
+2738. add fire hydrant to 3D desktop inventory
+2739. remove fire hydrant from 3D desktop inventory
+2740. change fire hydrant texture
+2741. add fire hydrant to user inventory at startup
+2742. don't add fire hydrant to users inventory at startup
+2743. fire hydrant is throwable
+2744. fire hydrant is not throwable
+2745. enable fire hydrant animations
+2746. disable fire hydrant animations
+2747. change fire hydrant animations
+2748. enable fire hydrant sounds
+2749. disable fire hydrant sounds
+2750. change fire hydrant sounds
+2751. change fire hydrant damage rules
+2752. enable fire hydrant damage
+2753. disable fire hydrant damage
+2754. add wrench to 3D desktop inventory
+2755. remove wrench from 3D desktop inventory
+2756. change wrench texture
+2757. add wrench to user inventory at startup
+2758. don't add wrench to users inventory at startup
+2759. wrench is throwable
+2760. wrench is not throwable
+2761. enable wrench animations
+2762. disable wrench animations
+2763. change wrench animations
+2764. enable wrench sounds
+2765. disable wrench sounds
+2766. change wrench sounds
+2767. change wrench damage rules
+2768. enable wrench damage
+2769. disable wrench damage
